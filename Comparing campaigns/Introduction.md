@@ -1,4 +1,4 @@
-README file for A/B TESTING PROJECT
+A/B TESTING PROJECT
 
 This project is inspired by Aman Kharwal:  https://thecleverprogrammer.com/2022/11/14/a-b-testing-using-python/
 
