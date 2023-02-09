@@ -33,4 +33,4 @@ Before analyzing data, I did some data cleaning, including:
 This project used Plotly as main data visualization tool. 
 (** This is the first time I learned and used some packages of Plotly for data visualization, so my project looked a little messy)
 •	I haven’t figured out yet how to show plotly graph/chart along with codes; however, I was able to turned them into .png file so I uploaded the images.
-![image](https://user-images.githubusercontent.com/96190092/217906007-ef85f95a-6e44-4068-b344-e5c5f3424d64.png)
+
