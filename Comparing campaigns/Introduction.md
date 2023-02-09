@@ -7,8 +7,6 @@ A/B Testing
 Also known as a split test or bucket test, A/B testing is a research methodology used to compare two versions of the same subject matter to find out which version is better.
 A/B testing can be used in marketing to test two marketing campaigns to see which one increase website traffic, boost ad clicks or sales, etc. 
 
-A/B Testing Case Study
-
 A/B testing helps in finding a better approach to finding customers, marketing products, getting a higher reach, or anything that helps a business convert most of its target customers into actual customers.
 
 Two datasets used in this project are:
