@@ -1,4 +1,4 @@
-### Business Goal:
+### Business Goal
 To divide customers into groups based on demographics (age, income) and behavorial characteristics (spending habit) to create niche marketing targeting specific groups that generate the most revenues for the store. 
 
 ### Approach
