@@ -6,3 +6,6 @@ Since the dataset used in this project is not labeled, we would employ unsupervi
 
 ### Result
 We would focus on group(s) that has high annual income and high spending score as they bring us the most revenues. We can also examine the group that has high spending score but low to medium income. We can further look at their spending habit and create a one-time event marketing annually to attract this group and boost sales.
+
+**NOTE**
+I made a mistake in the conclusion about bivariate analysis. The cluster that has high annual income and high spending score is cluster 3, NOT cluster 0.
